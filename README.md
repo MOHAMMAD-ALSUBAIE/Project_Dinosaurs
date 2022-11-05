@@ -2,9 +2,9 @@
 
 ## Student Instructions
 
-.In this project,I made UI that content boxes, everybox has an image and some facts about Dinosaur, those facts generts from the inputs of the users and also the JONS file
-.the facts are those generated base on the inputs of users will appear randomly in the box of each box of Dinosaur
-.facts those generate from inputs of user base some condition, example the high of dinosaur 1 is more than human(user) so generate fact that say The dinosaur 1 is higher than human
+.In this  project,I made UI that content boxes, everybox has an image and some facts about Dinosaur, those facts generate from the inputs of the users and also the JONS file
+.the facts are those generated base on the inputs of users  will appear randomly in the box of each box of Dinosaur
+.facts those generate from   inputs of user  base some condition, example the high of dinosaur 1 is more than human(user) so generate fact that say The dinosaur 1 is higher than human
 
 ### Big Picture
 
